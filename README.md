@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ताहिर | Tahir | طاہر
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning 𝕁𝕒𝕧𝕒𝕤𝕔𝕣𝕚𝕡𝕥
+- 🌱 I’m currently learning 𝓒++
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 You can reach me at my twitter handle: tmalikJK14
 
