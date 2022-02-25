@@ -1,8 +1,7 @@
-- 👋 Hi, I’m ताहिर | Tahir | طاہر
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning 𝓒++
-- 💞️ I’m looking to collaborate on web based projects
-- 📫 You can reach me at my twitter handle: tmalikJK14
+- 👋 Hi, I’m ताहिर Tahir طاہر
+- 👨‍💻 I’m currently learning Full Stack Development & Algorithms
+- ⚡ “It’s foolish to fear what we have yet to see and know.”
+- 📧 You can reach me at: tmalikjk14@gmail.com
 
 <!---
 tmalikJK14/tmalikJK14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
