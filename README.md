@@ -1,6 +1,5 @@
-- 👋 Hi, I’m ताहिर Tahir طاہر
-- 👨‍💻 I’m currently learning Full Stack Development & Algorithms
-- ⚡ “It’s foolish to fear what we have yet to see and know.”
+- 👋 Hi, I’m Tahir
+- 👨‍💻 I’m currently learning Algorithms
 - 📧 You can reach me at: tmalikjk14@gmail.com
 
 <!---
