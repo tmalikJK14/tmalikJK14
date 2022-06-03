@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tahir
-- 👨‍💻 I’m currently learning Algorithms
+- 👨‍💻 I’m currently learning Blockchain Development
 - 📧 You can reach me at: tahir.malik296@gmail.com
 
 <!---
