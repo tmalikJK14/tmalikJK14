@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tahir
-- 👨‍💻 I’m currently learning Blockchain Development
+- 👨‍💻 I’m currently learning Web3.0
 - 📧 You can reach me at: tahir.malik296@gmail.com
 
 <!---
